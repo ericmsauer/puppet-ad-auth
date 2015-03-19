@@ -1,0 +1,14 @@
+{
+  "name": "ericmsauer-ad_auth",
+  "version": "0.1.0",
+  "author": "ericmsauer",
+  "summary": "Configure ad-auth with winbind and pam.d",
+  "license": "Apache 2.0",
+  "source": "https://github.com/ericmsauer/puppet-ad-auth.git",
+  "project_page": "https://github.com/ericmsauer/puppet-ad-auth",
+  "issues_url": "https://github.com/ericmsauer/puppet-ad-auth/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
